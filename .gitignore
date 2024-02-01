@@ -1,8 +1,5 @@
-# Temporary backed up files
+# Temporarily backed up files
 /backup
-
-#images
-/public/images
 
 # dependencies
 /node_modules
