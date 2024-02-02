@@ -5,6 +5,10 @@ const Details = () => {
       <table className="table-with-headers">
         <tbody>
           <tr>
+            <th scope="row">House Type</th>
+            <td className="text-secondary">Viebrockhaus Maxime 300</td>
+          </tr>
+          <tr>
             <th scope="row">Roof Angle</th>
             <td className="text-secondary">35°</td>
           </tr>
