@@ -1,8 +1,0 @@
-**/.git
-**/.gitignore
-**/.vscode
-Dockerfile
-README.md
-docker-compose.yml
-**/.DS_Store
-node_modules
