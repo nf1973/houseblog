@@ -1,6 +1,7 @@
 import data from "@/app/data/posts.json";
 
-export default function Pages({ params }) {
+export default async function Pages(props) {
+  const params = await props.params;
   function getPost(slug) {
     return data.find((item) => item.slug === slug);
   }
